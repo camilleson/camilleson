@@ -2,8 +2,8 @@
 
 🐰About Me
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ka0son)](https://velog.io/@ka0son) 
 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ka0son"/></a>
 
 
 🐜 Tech Stack 
