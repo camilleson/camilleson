@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Kayoung_Son&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn)
 
-🐰About Me
+🐰 About Me
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ka0son)](https://velog.io/@ka0son) 
 
