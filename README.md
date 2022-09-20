@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Kayoung_Son&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn)
 
+새로운 시도에 기대감을 가지고, 긍정의 힘으로 도전하는 개발자 손가영입니다.☺️
+
 🐰 About Me
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ka0son)](https://velog.io/@ka0son) 
